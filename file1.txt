@@ -1,0 +1,3 @@
+Iniciando o treinamento Git
+adicionando linha 2
+adiciononando linha 3
